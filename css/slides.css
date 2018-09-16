@@ -1,7 +1,7 @@
 @font-face{
-	font-family: 'FuturaHandwritten';
+	font-family: Pangolin;
 	font-style: normal;
-	src: url('FuturaHandwritten.ttf') format('truetype');
+	src: url('Pangolin-Regular.ttf') format('truetype');
 }
 
 html,body{
@@ -16,7 +16,7 @@ body{
 
 	background: #fff;
 
-	font-family: 'FuturaHandwritten';
+	font-family: 'Pangolin', cursive;
 	color: #333;
 	font-size: 20px;
 
@@ -52,11 +52,11 @@ s{
 
 #translations{
 	margin: 10px auto;
-    font-size: 15px;
+    font-size: 12px;
     line-height: 21px;
     color: #fff;
     text-align: center;
-    width: 800px;
+    width: 900px;
 }
 #translations a{
 	color:#dd4040;
@@ -201,7 +201,7 @@ s{
 }
 .button #text{
 	
-	font-family: 'FuturaHandwritten';
+	font-family: 'Pangolin', cursive;
 	color: #000;
 	font-size: 24px;
 
@@ -541,4 +541,3 @@ s{
 .credits a:hover{
 	color:#ee5151;
 }
-
